@@ -13,6 +13,6 @@ Use multiprocessing.
 
   [1]: http://eprint.iacr.org/2011/277       "BGV12"
   [2]: http://eprint.iacr.org/2012/099       "GHS12"
-  [5]: https://github.com/shaih/HElib        "HELIB" 
+  [3]: https://github.com/shaih/HElib        "HELIB" 
   [4]: http://www.sympy.org/en/index.html    "SYMPY"
   [5]: http://www.numpy.org                  "NUMPY"
